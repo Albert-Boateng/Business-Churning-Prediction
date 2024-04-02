@@ -21,7 +21,3 @@ if st.session_state['LOGGED_IN']:
     st.image(img, width=None, use_column_width=True)
     if __name__ == '__main__':
          home()
-    st.write('Links:')
-    st.markdown('[GitHub](https://github.com/dashboard)')
-    st.markdown('[LinkedIn](www.linkedin.com/in/isaac-fumey-27b75774)')
-                                      
